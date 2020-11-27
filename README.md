@@ -4,10 +4,10 @@ Start arsh installer:
 
 `git clone https://github.com/maxter915/arsh`
 
-chmod +777 arsh and 
-chmod +777 lilo
-`./arsh`
-`./lilo`
+- chmod +777 arsh `./arsh`
+- chmod +777 lilo `./lilo`
+
+
 
 
 ## How to use
