@@ -1,19 +1,21 @@
-# Arsh Linux Installer - arsh
+# Linux Installer - arsh and lilo
 
 Start arsh installer:
 
 `git clone https://github.com/maxter915/arsh
 
 chmod +777 arsh
-
+chmod +777 lilo
 `./arsh`
+`./lilo`
+
 
 ## How to use
-- FIFO [System Base]: `cd aui ; ./fifo`
+- ARSH` [System Base]: `cd aui ; ./fifo`
 - LILO [The Rest]: `cd aui ; ./lilo`
 
 ## Features
-### FIFO SCRIPT
+### ARSH` SCRIPT
 - Configure keymap
 - Select editor
 - Automatic configure mirrorlist
