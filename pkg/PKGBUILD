@@ -1,4 +1,4 @@
-# Maintainer: twitter.com/CallMeZatiel
+
 pkgname=arsh
 destname="/usr/bin"
 srclang="/usr/share/arsh"
@@ -6,13 +6,13 @@ pkgver=0.0.2
 pkgrel=1
 pkgdesc="Arsh installer"
 arch=('any')
-url="https://github.com/callmezatiel/arsh"
+url="https://github.com/maxter915/arsh"
 license=('GPL3')
 makedepends=('git')
 depends=('curl')
 provides=("${pkgname}")
 options=(!strip !emptydirs)
-source=(${pkgname}::"git+https://github.com/callmezatiel/${pkgname}.git")
+source=(${pkgname}::"git+https://github.com/maxter915/${pkgname}.git")
 sha256sums=('SKIP')
 
 package() {
