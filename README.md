@@ -11,8 +11,8 @@ Start arsh installer:
 
 
 ## How to use
-- ARSH` [System Base]: `cd aui ; ./fifo`
-- LILO [The Rest]: `cd aui ; ./lilo`
+- ARSH` [System Base]: `cd arsh ; ./arsh`
+- LILO [The Rest]: `cd arsh ; ./lilo`
 
 ## Features
 ### ARSH` SCRIPT
